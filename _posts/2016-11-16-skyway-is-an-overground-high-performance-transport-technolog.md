@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-05-12T18:10:21.505Z'
+datePublished: '2018-05-12T18:12:25.869Z'
 sourcePath: >-
   _posts/2016-11-16-skyway-is-an-overground-high-performance-transport-technolog.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2018-05-12T18:10:20.292Z'
+dateModified: '2018-05-12T18:12:24.855Z'
 title: OUR OFFER
 publisher: {}
 description: >-
@@ -32,6 +32,7 @@ _type: Blurb
 
 ### FREE travel on SkyWay for LIFE for shareholders.
 [Request your FREE personal offer][0]
+[Order SkyWay Shares][0]
 
 _"We select such investments on a long-term basis, weighing the same factors as would be involved in the purchase of 100% of an operating business:_
 
