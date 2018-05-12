@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-05-12T18:12:25.869Z'
+datePublished: '2018-05-12T18:12:43.841Z'
 sourcePath: >-
   _posts/2016-11-16-skyway-is-an-overground-high-performance-transport-technolog.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2018-05-12T18:12:24.855Z'
+dateModified: '2018-05-12T18:12:43.033Z'
 title: OUR OFFER
 publisher: {}
 description: >-
@@ -31,7 +31,6 @@ _type: Blurb
 ### Join 300,000 crowd of SkyWay partners in the largest crowdfunding campaign.
 
 ### FREE travel on SkyWay for LIFE for shareholders.
-[Request your FREE personal offer][0]
 [Order SkyWay Shares][0]
 
 _"We select such investments on a long-term basis, weighing the same factors as would be involved in the purchase of 100% of an operating business:_
