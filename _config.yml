@@ -1,0 +1,44 @@
+typography_spectrum: 0.723790941564274
+color:
+  brandStrength: 0.4149426195806464
+  lightness: 0.5487673397836192
+  saturation: 0.6720655133106774
+  rhythmicContrast: 0.2601029585820097
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+layout_spectrum: 0.8145747593884347
+analytics:
+  google: UA-87385729-2
+author:
+  name: Mont Sinai Innovatiion Consulting
+  email: info@montsinai.eu
+  url: 'http://www.montsinai.eu'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2f3438b-a0af-4537-a305-28a66d012005.png
+name: Future is Now
+navigation:
+  - name: SkyWay Headquarters
+    url: 'http://rsw-systems.com'
+    type: external
+  - name: Media News
+    url: 'http://rsw-systems.com/en-media/press-about/'
+    type: external
+  - name: Join the SkyWay!
+    url: 'http://rsw-systems.com/?r=113882'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dd39e84-455d-4199-8944-17c6bfde2af6.png
+title: Transport Innovation
+content: []
+coverPrefs:
+  filter: false
+description: Your guide to SkyWay benefits
+purpose:
+  - type: contact
+    url: 'mailto:info@montsinai.eu'
+    label: Recieve Your Benefits
+github: true
