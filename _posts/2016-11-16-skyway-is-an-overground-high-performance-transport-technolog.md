@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-06-08T16:44:06.441Z'
+datePublished: '2018-06-08T16:45:18.870Z'
 sourcePath: >-
   _posts/2016-11-16-skyway-is-an-overground-high-performance-transport-technolog.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2018-06-08T16:44:05.537Z'
+dateModified: '2018-06-08T16:45:17.881Z'
 title: OUR OFFER
 publisher: {}
 description: >-
@@ -32,6 +32,7 @@ _type: Blurb
 [Order SkyWay Shares][0]
 
 _"We select such investments on a long-term basis, weighing the same factors as would be involved in the purchase of 100% of an operating business:_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40bbcbc0-16a4-4089-8b35-9f3dd0a41ec8.png)
 
 _(1) favorable long-term economic characteristics;_  
 _(2) competent and honest management;_  
