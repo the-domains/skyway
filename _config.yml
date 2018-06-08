@@ -1,16 +1,18 @@
-typography_spectrum: 0.723790941564274
+layout_spectrum: 0.4158777752784219
+typography_spectrum: 0.5029483540375523
 color:
-  brandStrength: 0.4149426195806464
-  lightness: 0.5487673397836192
-  saturation: 0.6720655133106774
-  rhythmicContrast: 0.2601029585820097
+  brandStrength: 0.01368889680796183
+  lightness: 0.41747308328904503
+  saturation: 0.8864556761944463
+  rhythmicContrast: 0.9280474614866521
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-layout_spectrum: 0.8145747593884347
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
+coverPrefs:
+  filter: false
 analytics:
   google: UA-87385729-2
 author:
@@ -39,7 +41,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -47,8 +48,6 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-coverPrefs:
-  filter: false
 description: Help you with your innovation challenges
 purpose:
   - type: contact
