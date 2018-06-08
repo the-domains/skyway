@@ -23,9 +23,6 @@ navigation:
   - name: 'Transport Innovation: SkyWay'
     url: 'http://rsw-systems.com'
     type: external
-  - name: Join the SkyWay!
-    url: 'http://rsw-systems.com/?r=113882'
-    type: external
 favicon: null
 title: Transport Innovation
 content: []
