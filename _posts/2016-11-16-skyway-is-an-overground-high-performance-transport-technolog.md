@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-05-12T18:12:43.841Z'
+datePublished: '2018-06-08T16:44:06.441Z'
 sourcePath: >-
   _posts/2016-11-16-skyway-is-an-overground-high-performance-transport-technolog.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2018-05-12T18:12:43.033Z'
+dateModified: '2018-06-08T16:44:05.537Z'
 title: OUR OFFER
 publisher: {}
 description: >-
@@ -25,8 +25,6 @@ _type: Blurb
 ## **HIGH QUALITY DIVIDEND STOCKS, LONG-TERM PLAN**
 
 ### Create from $2,000 to $45,000,000 worth of your co-ownership in the SkyWay starting from $50\.
-
-### Increase your capital to $2,000,000 in 2 years.
 
 ### Join 300,000 crowd of SkyWay partners in the largest crowdfunding campaign.
 
