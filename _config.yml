@@ -17,8 +17,7 @@ author:
   name: Mont Sinai Innovatiion Consulting
   email: info@montsinai.eu
   url: 'http://www.montsinai.eu'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2f3438b-a0af-4537-a305-28a66d012005.png
+logo: null
 name: Future of Transport is Now
 navigation:
   - name: SkyWay Headquarters
@@ -30,8 +29,7 @@ navigation:
   - name: Join the SkyWay!
     url: 'http://rsw-systems.com/?r=113882'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dd39e84-455d-4199-8944-17c6bfde2af6.png
+favicon: null
 title: Transport Innovation
 content: []
 coverPrefs:
