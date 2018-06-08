@@ -19,7 +19,7 @@ author:
   url: 'http://www.montsinai.eu'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2f3438b-a0af-4537-a305-28a66d012005.png
-name: Future is Now
+name: Future of Transport is Now
 navigation:
   - name: SkyWay Headquarters
     url: 'http://rsw-systems.com'
@@ -40,6 +40,6 @@ description: Your guide to SkyWay benefits
 purpose:
   - type: contact
     url: 'mailto:info@montsinai.eu'
-    label: Recieve Your Benefits
+    label: Contact me
 github: true
 url: 'http://montsinai.eu/'
